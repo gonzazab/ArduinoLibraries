@@ -1,4 +1,4 @@
-# Servolibrary
+# ServoEasy Library
 
 
 This library allows an Arduino board to control RC (hobby) servo motors. Servos have integrated gears and a shaft that can be precisely controlled. Standard servos allow the shaft to be positioned at various angles, usually between 0 and 180 degrees. Continuous rotation servos allow the rotation of the shaft to be set at various speeds.
