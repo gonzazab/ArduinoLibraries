@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ServoEasy	KEYWORD1	ServoEasy
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Init	KEYWORD2
+SetSetpoint	KEYWORD2
+GetSetpoint	KEYWORD2
+GetValue	KEYWORD2
+Check	KEYWORD2
+SetMillisInterval	KEYWORD2
+SetMicrosInterval	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
