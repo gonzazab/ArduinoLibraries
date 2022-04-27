@@ -11,10 +11,10 @@ To use this library:
 #include <ServoEasy.h>
 ```
 
-##Circuit
+## Circuit
 
 Servo motors have three wires: power, ground, and signal. The power wire is typically red, and should be connected to the 5V pin on the Arduino board. The ground wire is typically black or brown and should be connected to a ground pin on the Arduino board. The signal pin is typically yellow, orange or white and should be connected to a digital pin on the Arduino board. Note that servos draw considerable power, so if you need to drive more than one or two, you'll probably need to power them from a separate supply (i.e. not the 5V pin on your Arduino). Be sure to connect the grounds of the Arduino and external power supply together.
 
-##Diference with Servo.h
+## Diference with Servo.h
 
 This library is based on Servo.h, the difference is that the transition movement from one angle to another is smoother, which gives a better response and more natural movements in a robot.
